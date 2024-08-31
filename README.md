@@ -66,7 +66,7 @@
 
 - 🔭 Working on Problem Solving and Software Development
 - 🌱 Learning Data Science and SE and MI & more
-- 📫 How to contact me: Kawser Ahmmed (Discord)
+- 📫 How to contact me: kawser25350 (Discord)
 
 ## 🛠 Languages and Tools
 <p align="center"> 
