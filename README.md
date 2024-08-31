@@ -52,7 +52,7 @@
       </td>
       <td> 
         <div align="left">
-            <a href="https://anmamun0.netlify.app/" target="_blank">
+            <a href=""_blank">
               <img src="https://img.shields.io/static/v1?message=Portfolio&logo=codepen&label=&color=0080FE&logoColor=white&labelColor=&style=plastic" height="25" alt="codepen logo"  />
             </a>
         </div>
@@ -87,10 +87,5 @@
 </div>
 <br/><br/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
-</div>
-<hr/>
+
+
