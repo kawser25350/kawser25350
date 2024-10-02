@@ -25,11 +25,11 @@
     <tr>
       <!-- Profile Views -->
       <td>
-         <a href="https://github.com/kawser25350"> <img src="https://komarev.com/ghpvc/?username=anmamun0&style=for-the-badge&color=brightgreen"> </a>
+         <a href="https://github.com/kawser25350"> <img src="https://komarev.com/ghpvc/?username=kawser25350ss&style=for-the-badge&color=brightgreen"> </a>
       </td>
       <td> 
         <div align="left">
-            <a href=""_blank">
+            <a href="https://mkshuvo25350.wixsite.com/kawserahmmed">
               <img src="https://img.shields.io/static/v1?message=Portfolio&logo=codepen&label=&color=0080FE&logoColor=white&labelColor=&style=plastic" height="25" alt="codepen logo"  />
             </a>
         </div>
