@@ -1,7 +1,8 @@
 ## Introduction
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines= Im%20Addicted%20to%20Competitive%20Programming;Developer%20of%20Python%20Django;3+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Im+Addicted+to+Competitive+Programming;Developer+of+Python+Django;2%2B+years+of+coding+experience&font=Fira+Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" />
 </p>
+
 
 </p>
 <h3 align="center">Hey there, I'm <a href="https://github.com/kawser25350">Kawser Ahmmed</a></h3>
