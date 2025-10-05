@@ -46,16 +46,32 @@
 - 🌱 Learning Data Science and SE and MI & more
 - 📫 How to contact me: kawser25350 (Discord)
 
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=kawser25350&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=kawser25350&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=kawser25350&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-  <img alt="kawser25350 :: Leetcode" align="center" src="https://leetcode-badge-sage.vercel.app/badge/Local-Coder?theme=dark&bgColor=282828&border_radius=10"> <p><br></p>
+
+<p align="center">
+  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=kawser25350&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=kawser25350&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+</p>
+
+<p align="center">
+  <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=kawser25350&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="400">
+      <img src="https://leetcard.jacoblin.cool/Local-Coder?theme=dark&font=Roboto&ext=activity" alt="LeetCode Badge"/>
+    </td>
+    <td align="center" width="400">
+      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Kawser-Ahmmed&theme=react&border_radius=10" alt="Codeforces Stats"/>
+    </td>
+  </tr>
+</table>
+
 <h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
+
+
 
 <p align="center">
   <a href="https://discord.gg/HACk#4796" target="_blank" ><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
