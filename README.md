@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Python • Django • React | Backend Focused Developer</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-4564-0e75b6?style=flat" alt="Profile views"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=kawser25350.kawser25350&left_color=gray&right_color=0e75b6" alt="Profile views"/>
 </p>
 
 ---
