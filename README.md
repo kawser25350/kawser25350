@@ -1,50 +1,57 @@
-## Introduction
+<h1 align="center">Hi 👋, I'm Kawser Ahmmed</h1>
+<h3 align="center">Software Engineer | Python • Django • React | Backend Focused Developer</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Developer+of+Python+Django;2%2B+years+of+coding+experience&font=Fira+Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" />
+  <img src="https://img.shields.io/badge/Profile%20Views-4564-0e75b6?style=flat" alt="Profile views"/>
 </p>
 
+---
 
-</p>
-<h3 align="center">Hey there, I'm <a href="https://github.com/kawser25350">Kawser Ahmmed</a></h3>
+## 🧠 About Me
 
-## 🛠 Languages and Tools
-<p align="center"> 
-  <a href="https://github.com/kawser25350">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,mysql,linux,git,mongodb,vscode,github,css,html,bots"> 
-  </a> 
-</p>
+I am a passionate **Software Engineer** focused on building scalable backend systems and modern web applications.
 
- 
-## Profile Views 
+I enjoy writing clean code, solving real-world problems, and continuously learning new technologies.
 
-  <table>
-    <tr>
-      <!-- <th>Profile Views</th> -->
-      <th>Total Count</th>
-      <th>Portfolio</th>
-    </tr>
-    <tr>
-      <!-- Profile Views -->
-      <td>
-         <a href="https://github.com/kawser25350"> <img src="https://komarev.com/ghpvc/?username=kawser25350ss&style=for-the-badge&color=brightgreen"> </a>
-      </td>
-      <td> 
-        <div align="left">
-            <a href="https://kawserahmmed.me"> 
-              <img src="https://img.shields.io/static/v1?message=Portfolio&logo=codepen&label=&color=0080FE&logoColor=white&labelColor=&style=plastic" height="25" alt="codepen logo"  />
-            </a>
-        </div>
-      </td>
-    </tr>
-  </table>
-<!-- Sponsor
-   <a href="https://github.com/sponsors/Thinkright20"><img alt="sponsors" title="All Sponsors" src="https://img.shields.io/badge/-All Sponsors-FD9494?style=for-the-badge&logo=GitHub&logoColor=black"/></a>
--->
-## What I'm Doing
+* 🔭 Currently working on **Django Backend Systems**
+* 🌱 Currently learning **Machine Learning & System Design**
+* 💬 Ask me about **Python, Django, Django REST Framework, React**
+* 🎯 Goal: Become a strong **Backend / Full-Stack Engineer**
+* ⚡ Fun fact: I enjoy turning ideas into real products
 
-- 🔭 Working on Problem Solving and Software Development
-- 🌱 Learning Data Science and SE and MI & more
-- 📫 How to contact me: kawser25350 (Discord)
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 Backend
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![DRF](https://img.shields.io/badge/Django%20REST%20Framework-ff1709?style=for-the-badge)
+
+### 🎨 Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+
+### 🗄️ Database & Storage
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge\&logo=mysql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+
+### ⚙️ Tools & Others
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
