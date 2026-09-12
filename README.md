@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Kawser Ahmmed</h1>
-<h3 align="center">Software Engineer | Python • Django • React | Backend Focused Developer</h3>
+<!-- <h1 align="center">Hi 👋, I'm Kawser Ahmmed</h1> -->
+<!-- <h3 align="center">Software Engineer | Python • Django • React | Backend Focused Developer</h3> -->
+<h1 align="center">Hi 👋, I'm Kawser Ahmmed</h1> <h3 align="center">Backend Developer in Progress | Python • Django • React</h3>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=kawser25350.kawser25350&title=Profile%20Views&left_color=gray&right_color=0e75b6" alt="Profile Views"/>
@@ -9,7 +10,8 @@
 
 ## 🧠 About Me
 
-I am a passionate **Software Engineer** focused on building scalable backend systems and modern web applications.
+I’m a Computer Science student and aspiring Backend Developer focused on learning and building web applications with Python and Django.
+Currently, I’m improving my skills in backend development, REST APIs, databases, and software engineering fundamentals while working on personal projects.I also have an interest in frontend development with React and enjoy exploring new technologies and solving programming problems.
 
 I enjoy writing clean code, solving real-world problems, and continuously learning new technologies.
 
