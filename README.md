@@ -73,7 +73,7 @@ I enjoy writing clean code, solving real-world problems, and continuously learni
       <img src="https://leetcard.jacoblin.cool/Local-Coder?theme=dark&font=Roboto&ext=activity" alt="LeetCode Badge"/>
     </td>
     <td align="center" width="400">
-      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Kawser-Ahmmed&theme=react&border_radius=10" alt="Codeforces Stats"/>
+      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Local-Coder&theme=react&border_radius=10" alt="Codeforces Stats"/>
     </td>
   </tr>
 </table>
