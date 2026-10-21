@@ -106,7 +106,7 @@ I enjoy writing clean code, solving real-world problems, and continuously learni
   <a href="https://stackoverflow.com/users/23400392/kawser-ahmmed" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge"  alt="stackoverflow logo"  />
   </a>
-  <a href="https://codeforces.com/profile/Kawser-Ahmmed" target="_blank">
+  <a href="https://codeforces.com/profile/Local-Coder" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=codeforce&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" alt="slack logo"  />
 </div>
    
