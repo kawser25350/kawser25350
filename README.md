@@ -1,63 +1,79 @@
-<!-- <h1 align="center">Hi 👋, I'm Kawser Ahmmed</h1> -->
-<!-- <h3 align="center">Software Engineer | Python • Django • React | Backend Focused Developer</h3> -->
-<h1 align="center">Hi 👋, I'm Kawser Ahmmed</h1> <h3 align="center">Backend Developer in Progress | Python • Django • React</h3>
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kawser25350.kawser25350&title=Profile%20Views&left_color=gray&right_color=0e75b6" alt="Profile Views"/>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&height=60&lines=Hi%2C+I'm+Kawser+Ahmmed;Software+Developer;Backend+%26+AI%2FML+Enthusiast;Competitive+Programmer" alt="Typing Introduction" />
 
----
+  <p>
+    <b>Computer Science Student | Software Engineering | Problem Solving</b>
+  </p>
+  <p>
+    Building software, exploring intelligent systems, and solving challenging problems.
+  </p>
+  <a href="https://github.com/kawser25350">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kawser-ahmmed-6a0b65267/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 
-## 🧠 About Me
+  <br/>
 
-I’m a Computer Science student and aspiring Backend Developer focused on learning and building web applications with Python and Django.
-Currently, I’m improving my skills in backend development, REST APIs, databases, and software engineering fundamentals while working on personal projects.I also have an interest in frontend development with React and enjoy exploring new technologies and solving programming problems.
-
-I enjoy writing clean code, solving real-world problems, and continuously learning new technologies.
-
-* 🔭 Currently working on **Django Backend Systems**
-* 🌱 Currently learning **Machine Learning & System Design**
-* 💬 Ask me about **Python, Django, Django REST Framework, React**
-* 🎯 Goal: Become a strong **Backend / Full-Stack Engineer**
-* ⚡ Fun fact: I enjoy turning ideas into real products
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
 
-### 🚀 Backend
+I'm a Computer Science student interested in building software, exploring emerging technologies, and solving complex computational problems.My journey revolves around **Software Engineering, Backend Development, Artificial Intelligence, Machine Learning, and Competitive Programming**. I enjoy combining logical thinking with practical engineering to develop efficient and meaningful solutions.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![DRF](https://img.shields.io/badge/Django%20REST%20Framework-ff1709?style=for-the-badge)
+### Areas of Interest
+| Area | Focus |
+|:---|:---|
+| **Software Engineering** | Software architecture, clean code, and scalable applications |
+| **Backend Development** | Django, REST APIs, databases, and system design |
+| **AI & Machine Learning** | Intelligent systems, machine learning, and data-driven solutions |
+| **Competitive Programming** | Data structures, algorithms, and problem solving |
 
-### 🎨 Frontend
+**Competitive Programming:** 3+ years of experience in algorithmic problem solving and programming contests.
+## Technical Skills
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+### Programming Languages
 
-### 🗄️ Database & Storage
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge\&logo=mysql\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+### Backend Development
 
-### ⚙️ Tools & Others
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST_Framework-A30000?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+### Frontend Development
 
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-
 <p align="center">
   <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=kawser25350&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=kawser25350&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
