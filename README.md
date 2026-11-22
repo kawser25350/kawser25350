@@ -89,8 +89,13 @@ I'm a Computer Science student interested in building software, exploring emergi
       <img src="https://leetcard.jacoblin.cool/Local-Coder?theme=dark&font=Roboto&ext=activity" alt="LeetCode Badge"/>
     </td>
     <td align="center" width="400">
-      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Local-Coder&theme=react&border_radius=10" alt="Codeforces Stats"/>
-    </td>
+<h3 align="center">🏆 Codeforces Profile</h3>
+
+<p align="center">
+  <a href="https://codeforces.com/profile/Local-Coder">
+    <img src="https://codeforces-stats-vlx.vercel.app/api/card?username=Local-Coder&theme=tokyonight" alt="Codeforces Stats" />
+  </a>
+</p>    </td>
   </tr>
 </table>
 
